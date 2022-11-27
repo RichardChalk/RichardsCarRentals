@@ -15,7 +15,9 @@ using System.Threading.Tasks;
 // 1: Skapa en 'Build' klass
 // 2: Skapa en klass som heter "MainMenu"
 // 3: Skapa en klass som heter 'BookingController'
-// 4: 'CreateBooking' metoden är enorm (SRP!!!). Splittra den så det blir många små metoder istället
+// 4: CreateBooking() & ListBookings() ska flyttas till klassen 'BookingController'
+// 5: 'CreateBooking' metoden är enorm (SRP!!!).
+//      Splittra den så det blir många små metoder istället
 
 
 namespace EFCoreCodeFirstTogether
