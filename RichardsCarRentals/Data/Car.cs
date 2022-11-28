@@ -23,7 +23,7 @@ namespace EFCoreCodeFirstTogether.Data
         [MaxLength(100)]
         public string? Model { get; set; }
         
-        [Range(0,100)]
+        [Range(1999,9999)]
         public int ManufacturingYear { get; set; }
 
     }

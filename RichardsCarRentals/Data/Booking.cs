@@ -11,7 +11,6 @@ namespace EFCoreCodeFirstTogether.Data
     {
         public int Id { get; set; }
 
-        [MaxLength(100)]
         public Car CarBooking { get; set; }
 
         public DateTime DateStart { get; set; }
