@@ -17,6 +17,7 @@ using System.Threading.Tasks;
 // REFACTORING REFACTORING REFACTORING REFACTORING REFACTORING REFACTORING
 // REFACTORING REFACTORING REFACTORING REFACTORING REFACTORING REFACTORING
 
+// OBS: FACIT FINNS EJ! Denna övning ska ni lösa på bästa sätt!
 // 1: Skapa en 'Build' klass
 // 2: Skapa en klass som heter "MainMenu"
 // 3: Skapa en klass som heter 'BookingController'
